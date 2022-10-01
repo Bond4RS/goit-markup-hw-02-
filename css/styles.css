@@ -54,8 +54,6 @@ ul {
 
 .site-nav-link,
 .auth-nav-link {
-  padding-top: 32px;
-  padding-bottom: 32px;
   letter-spacing: 0.02em;
   font-weight: 500;
   line-height: 1.14;
@@ -160,6 +158,7 @@ ul {
 }
 
 .team-member {
+  color: var(--title-text-color);
   font-weight: 500;
   font-size: 16px;
   line-height: 1.19;
@@ -167,6 +166,7 @@ ul {
 }
 
 .position {
+  color: var(--primary-text-color);
   font-size: 16px;
   line-height: 1.19;
   text-align: center;
